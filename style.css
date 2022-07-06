@@ -27,8 +27,19 @@ footer
         width: 1024px; 
         margin: 0 auto;
     }
-.headname
+.headname1
     {
     color: rgb(154, 223, 25);
+    font-size: 30px;
+    }
+.headname2
+    {
+    color: rgb(252, 252, 252);
 
+    }
+.graphic
+    {
+    background-image: url("images/chantaburi-cover.jpeg");
+    height: 320px;
+    padding: auto;
     }
