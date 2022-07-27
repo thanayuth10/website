@@ -84,10 +84,11 @@ a
 .topmenu li
     {
     float: right;
-    padding: 30px 40px;
+    padding: 10px 40px;
     }
 
 .link10
     {
     background-color: white;
+    padding: 10px;
     }
